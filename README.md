@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markycab
 - 👀 I’m interested in developing systems that integrate sensors and data analytics
-- 🌱 I’m currently learning NodeJS, AWS, and PCB design
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working with AWS and T3 App Stack for web application development
+- 💞️ I’m looking to collaborate on building energy modelling applications and energy instrumentation
 - 📫 How to reach me: (email) mac@bayoa.dev
 
 <!---
